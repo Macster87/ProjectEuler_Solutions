@@ -11,3 +11,4 @@ while zweiteZahl < 4000000:
     zweiteZahl = fibo
 
 print(summe)
+#
